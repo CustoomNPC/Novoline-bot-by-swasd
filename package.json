@@ -1,0 +1,18 @@
+{
+  "name": "!imitates-novoline-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.905.0",
+    "dotenv": "^9.0.0",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
