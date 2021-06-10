@@ -1,0 +1,1 @@
+{"prefix": "!", "owners":["관리자ID", "다른관리자ID"],"autobuy": {"chargechannelid": "충전채널ID", "buychannelid": "구매채널ID"},"customerdiscord": { "id": "구매자방ID", "customerroldid": "구매자역할ID", "betaroleid": "베타역할ID" , "tutorialchannel": "사용법채널ID"},"usedatabase":false}
